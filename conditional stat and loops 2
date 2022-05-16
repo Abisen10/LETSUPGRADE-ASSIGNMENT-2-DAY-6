@@ -1,5 +1,7 @@
-  1.Take values of length and breadth of a rectangle from user and check if it is square or not
-SOLUTION:-
+                                
+				1.Take values of length and breadth of a rectangle from user and check if it is square or not
+
+
 #include <iostream>
 int main()
 {
@@ -30,7 +32,7 @@ Ask user for quantity
 Suppose, one unit will cost 100.
 Judge and print total cost for user.
 
-SOLUTION:-
+
 
 #include <iostream>
 int main()
@@ -59,7 +61,6 @@ e. 60 to 80 - B
 f. Above 80 - A
 Ask user to enter marks and print the corresponding grade.
 
-SOLUTION:-
 
 #include <iostream>
 int main()
@@ -102,8 +103,7 @@ And print
 percentage of class attended
 Is student is allowed to sit in exam or not.
 
-SOLUTION:-
-#include <iostream> 
+#Include <iostream> 
 #include <iomanip> // for set precision 
 using namespace std;
 
